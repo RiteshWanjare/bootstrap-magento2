@@ -1,4 +1,4 @@
-# Bootstrap Magento
+# Bootstrap Magento 2
 
 ### Git
 

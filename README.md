@@ -1,7 +1,5 @@
 # Bootstrap Magento
 
----
-
 ### Git
 
 Firstly, clone our repo down to a folder:
